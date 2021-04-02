@@ -5,8 +5,8 @@ Estudo criação de websites
 <body> 
   <h2> Marcio Matheus </h2>
   
-  <img arc="https://images5.alphacoders.com/985/985107.jpg">
   <header>
+  <img arc="https://images5.alphacoders.com/985/985107.jpg" alt="fundo de tela">
   <h1>Site oficial</h1>
   </header>
   

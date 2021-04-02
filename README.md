@@ -5,10 +5,8 @@ Estudo criação de websites
 <body> 
   <h2> Marcio Matheus </h2>
   
-  
-  
+  <img arc="https://images5.alphacoders.com/985/985107.jpg">
   <header>
-  <img arc="https://neilpatel.com/wp-content/uploads/2017/12/o-que-e-codigo-html-768x512.jpeg"/>
   <h1>Site oficial</h1>
   </header>
   

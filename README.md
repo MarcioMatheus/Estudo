@@ -8,7 +8,7 @@ Estudo criação de websites
   
   
   <header>
-  <img arc="https://neilpatel.com/wp-content/uploads/2017/12/o-que-e-codigo-html-768x512.jpeg"   alt="ILustração codigo html"/>
+  <img arc="https://neilpatel.com/wp-content/uploads/2017/12/o-que-e-codigo-html-768x512.jpeg"/>
   <h1>Site oficial</h1>
   </header>
   

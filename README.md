@@ -5,6 +5,8 @@ Estudo criação de websites
 <body> 
   <h2> Marcio Matheus </h2>
   
+  
+  
   <header>
   <h1>Site oficial</h1>
   </header>
@@ -15,8 +17,13 @@ Estudo criação de websites
   </header>
   <article>
     <header>
-      <h3> Primeira etapa </h3>
+      <h3> Primeira post </h3>
     </header>
+    <p>
+      A palavra de Deus é a bússola do cristão.
+   
+<a href="https://www.pensador.com/autor/billy_graham/">Billy Graham</a>
+    </p>
   </article>
   </section>
   <footer></footer>

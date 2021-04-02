@@ -22,7 +22,7 @@ Estudo criação de websites
     <p>
       A palavra de Deus é a bússola do cristão.
    
-<a href="https://www.pensador.com/autor/billy_graham/">Billy Graham</a>
+<a href="https://www.pensador.com/autor/billy_graham/" target="-blank">Billy Graham</a>
     </p>
   </article>
   </section>

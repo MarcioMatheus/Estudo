@@ -25,7 +25,7 @@ Estudo criação de websites
   </article>
   </section>
   <footer>
-<ul>
+<ol>
   <li>
     <a href="marciomatheus45@gmail.com">marciomatheus45@gmail.com</a>
   </li>
@@ -35,7 +35,7 @@ Estudo criação de websites
   <li>
     <a href="https://github.com/MarcioMatheus"> Github</a>
   </li>
- </ul>
+ </ol>
   </footer>
 </body>
 </html>

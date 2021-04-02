@@ -8,6 +8,7 @@ Estudo criação de websites
   
   
   <header>
+  <img acr="https://www.tutoriart.com.br/wp-content/uploads/2012/02/code-code-editor-coding-computer-data-developing-1366450-pxhere.com_-768x512.jpg" alt="ILustração codigo html">
   <h1>Site oficial</h1>
   </header>
   

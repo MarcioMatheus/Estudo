@@ -6,7 +6,7 @@ Estudo criação de websites
   <h2> Marcio Matheus </h2>
   
   <header>
-  <img arc="https://images5.alphacoders.com/985/985107.jpg" alt="fundo de tela">
+   <img src="http://www.maceio.al.gov.br/wp-content/uploads/2020/12/jpg/2020/12/Macei%C3%B3-Jonathan-Lins-30-1024x767.jpg"/>
   <h1>Site oficial</h1>
   </header>
   

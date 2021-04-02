@@ -24,6 +24,18 @@ Estudo criação de websites
     </p>
   </article>
   </section>
-  <footer></footer>
+  <footer>
+<ul>
+  <li>
+    <a href="marciomatheus45@gmail.com">marciomatheus45@gmail.com</a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/marcio-matheus-819a21209/"> LinkedIn</a>
+  </li>
+  <li>
+    <a href="https://github.com/MarcioMatheus"> Github</a>
+  </li>
+ </ul>
+  </footer>
 </body>
 </html>
